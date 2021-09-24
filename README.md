@@ -27,3 +27,7 @@
             <li>You can view the location of PG</li>
             <li>Click on the PG name to find details of the PG</li>
             <li>Click on the Chat Now to be able to contact using Whatsapp</li>
+            <li>Ask Queries Regarding PGs</li>
+       <hr class="my-4">
+<h1 class="text-center">How can you join<a href="https://pgfinderbeyondinfinity.000webhostapp.com/register.php" target="_blank" style="color:red">us?</a></h1>
+<h5 class="text-center">Fill up the Form and We will contact you😀</h5>
