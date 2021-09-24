@@ -19,3 +19,11 @@
             <div>
                 We are small team of young passionate students wishing to the eliminate the woes of numerous confused and overwhelmed students and travellers of finding accommodation and flatmates along with conveniently providing a platform of communication for the PG owners of with like-minded guests. We wish to expand further in the future developing ways to simplify the process even more for our Finders!
             </div>
+<hr class="my-4">
+<h1 class="text-center">How to use the <a href="https://pgfinderbeyondinfinity.000webhostapp.com/">Platform?</a></h1>
+            <li>Sign Up into our website</li>
+            <li>Login</li>
+            <li>Scroll and find your PG</li>
+            <li>You can view the location of PG</li>
+            <li>Click on the PG name to find details of the PG</li>
+            <li>Click on the Chat Now to be able to contact using Whatsapp</li>
