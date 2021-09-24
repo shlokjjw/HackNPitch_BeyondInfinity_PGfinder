@@ -1,5 +1,5 @@
 # HackNPitch_BeyondInfinity_PGfinder
-# Find your PG now
+<h1 class="text-center">Find your PG now</h1>
 
 
 <p class="lead"> Conceived from the seed of one great idea , empowering the lonely student or traveller with a humble abode and matchmaking like-minded PG-mates resulting in the hassle-free search for affordable long-term accommodation.</p>
