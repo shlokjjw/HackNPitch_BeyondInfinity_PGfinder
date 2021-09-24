@@ -4,9 +4,6 @@
 
 <p class="lead"> Conceived from the seed of one great idea , empowering the lonely student or traveller with a humble abode and matchmaking like-minded PG-mates resulting in the hassle-free search for affordable long-term accommodation.</p>
             <hr class="my-4">
-            <div>
-                Conceived from the seed of one great idea , empowering the lonely student or traveller with a humble abode and matchmaking like-minded PG-mates resulting in the hassle-free search for affordable long-term accommodation.
-            </div>
             <br>
             <div>
                 PGFinders is a pioneer in this field. It provides a common platform for students/travellers to scour through numerous PGs and find their perfect match. At the same time it offers a unique feature of free interaction between Finders who are interested in the same PG through a private/public chatroom according to the will of the Finder. This allows comfortable matchmaking between Finders and makes the otherwise cumbersome and complicated process of finding a Flatmate very convenient.
