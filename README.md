@@ -1,4 +1,4 @@
-# HackNPitch_BeyondInfinity_PGfinder
+# HackNPitch_PGfinder
 <h1 class="text-center">PGFinder</h1>
 
 
